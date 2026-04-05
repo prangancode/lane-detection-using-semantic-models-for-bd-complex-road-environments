@@ -1,6 +1,6 @@
 # Enhancing Lane Detection in Autonomous Driving: A Comparative Study of Semantic Segmentation Models in Challenging Environments
 
-[![DOI: Code](https://img.shields.io/badge/DOI-Pending_Code-blue.svg)](https://doi.org/10.5281/zenodo.19431573) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19431573.svg)](https://doi.org/10.5281/zenodo.19431573)
 [![Dataset: Kaggle](https://img.shields.io/badge/Dataset-RSUD20K-blue.svg)](https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding)
 
 This repository contains the official open-source code, implementation details, and evaluation scripts for our manuscript submitted to *The Visual Computer*. It provides a comprehensive comparative analysis of six semantic segmentation models optimized for lane detection under the complex, non-standardized road scenarios characteristic of Bangladesh.
